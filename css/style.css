@@ -29,10 +29,6 @@ body {
   opacity: 0;
   overflow: hidden;
   transition: .64s ease-in-out;
-  &-inner {
-
-  }
-
 }
 
 /* End popup modal */
