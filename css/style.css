@@ -11,6 +11,12 @@ body {
   position: relative;
 }
 
+
+/* popup modal */
+
+.popup {
+  visibility: hidden;
+}
 a {
   color: #52d3aa;
   -webkit-transition: 0.5s;
